@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://react-redux.realworld.io",
+  "projectId": "5r8req",
+  "video": false,
+  "testFiles": "**/*.feature"
+}
